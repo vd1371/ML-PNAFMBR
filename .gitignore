@@ -1,0 +1,3 @@
+*.csv
+Task2/*
+!Task2/.gitkeep
